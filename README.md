@@ -54,19 +54,7 @@ El proyecto está orientado al aprendizaje y práctica de:
 
 ---
 
-# 📸 Preview
 
-<div align="center">
-
-<img src="./assets/screenshots/home.png" width="900"/>
-
-<br><br>
-
-<img src="./assets/screenshots/player.png" width="900"/>
-
-</div>
-
----
 
 # ✨ Características
 
