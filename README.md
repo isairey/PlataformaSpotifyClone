@@ -1,8 +1,7 @@
 <div align="center">
 
-<img width="220" src="./assets/logo.png" />
 
-# 🎵 Streamify
+# 🎵 PlataformaSpotifyClone Streamify
 
 ### Clon moderno de Spotify desarrollado con TypeScript y JavaScript 🚀
 
@@ -180,7 +179,7 @@ El proyecto está orientado al aprendizaje y práctica de:
 # 📂 Estructura del Proyecto
 
 ```bash
-streamify/
+PlataformaSpotifyClone/
 │
 ├── assets/                  # Recursos multimedia
 ├── src/                     # Código TypeScript
@@ -200,7 +199,7 @@ streamify/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/isairey/Streamify
+git clone https://github.com/isairey/PlataformaSpotifyClone
 ```
 
 ---
@@ -208,7 +207,7 @@ git clone https://github.com/isairey/Streamify
 ## 2️⃣ Entrar al proyecto
 
 ```bash
-cd Streamify
+cd PlataformaSpotifyClone
 ```
 
 ---
